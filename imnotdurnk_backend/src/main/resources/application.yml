@@ -32,8 +32,8 @@ spring:
   mail:
     host: smtp.naver.com
     port: 465
-    username:
-    password:
+    username: REMOVED
+    password: REMOVED?
     properties:
       mail.smtp.auth: true
       mail.smtp.ssl.enable: true
