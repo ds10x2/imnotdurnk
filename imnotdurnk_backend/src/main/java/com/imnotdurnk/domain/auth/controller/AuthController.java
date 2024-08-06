@@ -59,7 +59,7 @@ public class AuthController {
 
             ResponseCookie responseCookie = ResponseCookie
                     .from("RefreshToken", refreshTokenDto.getToken())
-                    .domain("localhost")
+                    .domain("REMOVED")
                     .path("/")
                     .httpOnly(true)
                     .secure(true)
