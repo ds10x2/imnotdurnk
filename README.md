@@ -54,16 +54,18 @@
 - 서비스 접속 초기화면으로 다음 페이지가 나타납니다.
 - 로그인이 되어 있지 않은 경우: 우측 상단 로그인/회원가입 버튼 표시
 - 로그인이 되어 있는 경우: 우측 상단 마이페이지 버튼 표시
+<div align="center">
 <table>
   <tr>
     <td>
-    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_094114.jpg" width="200" height="400"/>
+    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_094114.jpg" height=500/>
         </td>
     <td>
-    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095522.jpg" width="200" height="400"/>
+    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095522.jpg" height=500/>
         </td>
   </tr>
-<table>
+</table>
+</div>
 
 ## 😀 프로필
 
@@ -71,15 +73,17 @@
 - 해당 페이지에서 회원 탈퇴, 로그아웃, 비밀번호 변경이 가능합니다.
 - 사용자의 프로필 정보 중 이름, 이메일을 제외한 모든 정보는 수정이 가능합니다.
 
+<div align="center">
 <table><tr><td>
-<img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/1.PNG" width="200" height="400"/>
+<img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/1.PNG" height=500 />
 </td>
 <td>
-<img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/2.PNG" width="200" height="400"/>
+<img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/2.PNG" height=500/>
 </td>
 <td>
-<img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/3.PNG" width="200" height="400"/>
+<img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/3.PNG" height=500/>
 </td></tr></table>
+</div>
 
 ## 📊 음주 및 게임 기록 통계
 
@@ -87,163 +91,186 @@
 - 음주 기록은 월별 음주 통계, 월별/일별 평균 음주량, 올해 총 음주량을 제공합니다.
 - 게임 기록은 4가지 게임별 사용자의 전체 점수 평균, 이번달 점수 평균을 그래프로 제공합니다.
 - 월별, 연도별 전체 점수 평균보다 낮은 점수인 경우를 구해 평균보다 과음한 일수를 구합니다.
+
+<div align="center">
 <table>
 <tr>
 <td>
-<img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/통계.png" width="200" height="400"/>
+  <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/통계.png" height=500/>
 </td>
 <td>
-<img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/4.PNG" width="200" height="400"/>
+  <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/4.PNG" height=500/>
 </td>
 </tr>
 </table>
+</div>
 
 ## 🎮 미니 게임
 
 - 만취 정도를 판단하기 위한 네가지 미니 게임(발음 게임, 밸런스 게임, 타이핑 게임, 기억력 게임)이 있습니다.
-
-    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095424.jpg" width="200" height="400"/>
-
 - 게임을 진행하면 해당 날짜에 사용자가 등록한 일정이 있는지 확인합니다. 등록된 일정이 있다면 게임 기록이 자동으로 저장되고, 등록된 일정이 없다면 술을 마시고 있는지 확인합니다.
 - 술을 마시고 있다면 일정을 생성하고 해당 일정에 게임 기록을 저장합니다.
 
+<div align="center">
 <table>
 <tr>
 <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095615.jpg" width="200" height="400"/>
-    </td>
-    <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095802.jpg" width="200" height="400"/>
-    </td>
-    <td>
-    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095626.jpg"  width="200" height="400"/>
-    </td>
-    <td>
-    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095709.jpg"  width="200" height="400"/>
-    </td>
-    </tr>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095615.jpg" height=500/>
+</td>
+<td>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095802.jpg" height=500/>
+</td>
+<td>
+    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095626.jpg" height=500/>
+</td>
+<td>
+    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095709.jpg" height=500/>
+</td>
+</tr>
   </table>
+</div>
 
 ### 발음 게임
 
 - 랜덤 문장을 읽고 이에 따른 발음 정확도를 점수로 계산합니다.
 - 한국전자통신연구원의 발음도 정확도 판단 API를 활용했고, 이에 필요한 WAV 형식, 160K 주파수 등의 조건을 맞추기 위해 recordRTC 라이브러리로 녹음 파일을 변환합니다.
 
+<div align="center">
 <table><tr><td>
-   <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/발음게임.gif" width="200" height="400"/>
+   <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/발음게임.gif" height=500/>
 </td></tr></table>
+</div>
 
 ### 밸런스 게임
 
 - 모바일 장치를 기울여 어미오리를 움직여서 랜덤 배치된 새끼 오리를 찾습니다.
 - Device오리엔테이션 API를 통해 모바일 장치의 가속도계를 활용해 실시간으로 장치의 기울기 정보를 감지합니다.
 
+<div align="center">
 <table><tr><td>
-   <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095602.jpg" width="200" height="400"/>
+   <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095602.jpg" height=500/>
 </td></tr></table>
+</div>
 
 ### 타이핑 게임
 
 - 랜덤으로 주어진 문장을 타이핑해서 전체 글자수 대비 일치하는 글자수를 기준으로 점수를 환산합니다.
 
+<div align="center">
 <table><tr><td>
-   <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/타이핑게임.gif" width="200" height="400"/>
+   <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/타이핑게임.gif" height=500/>
 </td></tr></table>
+</div>
 
 ### 기억력 게임
 
 - 20초의 제한시간 내에 동일한 이미지의 6쌍의 카드를 얼마나 찾을 수 있는지를 점수로 계산합니다.
 
+<div align="center">
 <table><tr><td>
-   <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/카드게임.gif"  width="200" height="400"/>
+   <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/카드게임.gif" height=500/>
 </td></tr></table>
+</div>
 
 ## 음주 기록 캘린더
 
 - 음주 일정을 확인합니다. 취한 정도에 따라 색상을 다르게 표시합니다. 해당 날짜 일정을 모아볼 수 있습니다.
 
+<div align="center">
 <table>
 <tr>
 <td>
-    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100256.jpg" width="200" height="400"/>
+    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100256.jpg" height=500/>
 </td>
 <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100317.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100317.jpg" height=500/>
 </td>
 <td>    
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095922.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095922.jpg" height=500/>
 </td>
 <td>    
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095758.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095758.jpg" height=500/>
 </td>
 </tr>
 </table>
+</div>
 
 - 일정은 캘린더에서 미리 등록하거나, 미니 게임 시 기록 저장을 위해 등록할 수 있습니다.
 
+<div align="center">
 <table>
 <tr>
 <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095643.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095643.jpg" height=500/>
 </td>
 <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095709.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_095709.jpg" height=500/>
 </td>
 <td>    
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100155.jpg" width="200" height="400"/>
-    </td>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100155.jpg" height=500/>
+</td>
 <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100034.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100034.jpg" height=500/>
     </td>
     </tr>
     </table>
+</div>
 
 - 등록된 일정을 수정할 수 있습니다.
 
+<div align="center">
 <table><tr><td>
-    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100335.jpg" width="200" height="400"/>
+    <img src="exec/포팅%20매뉴얼%20a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100335.jpg" height=500/>
 </td></tr></table>
+</div>
 
 - 끝난 일정에 대해 피드백을 등록할 수 있습니다. 해당 일정에서의 음주량을 기록합니다.
 
+<div align="center">
 <table><tr><td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100058.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100058.jpg" height=500/>
 </td></tr></table>
+</div>
 
 ## 🚓 최소 택시비 경로 찾기
 
 - GPS를 이용해 자동으로 현재 위치를 출발 위치로 설정할 수 있습니다.
 - 구글맵 API를 이용하여 정확한 위치 정보를 받아옵니다.
+
+<div align="center">
 <table>
 <tr>
 <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100939.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100939.jpg" height=500/>
     </td>
 <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100945.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100945.jpg" height=500/>
     </td>
 <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100635.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100635.jpg" height=500/>
     </td>
     </tr>
-    </table>
+</table>
+</div>
 
 - 오디세이 API에서 추천경로 데이터(기존 경로탐색에서 볼 수 있는 것과 같음)를 제공 받고, GTFS 데이터셋을 활용하여 막차가 끊기는 지점부터 다시 남아있는 노선을 확인해 도착지까지 가까이 갈 수 있는 경로를 구합니다.
   그 마지막 위치를 기준으로 카카오 모빌리티 API를 활용해 택시비 정보를 받아와서 사용자는 최종 추천 경로를 제공받습니다.
 
+<div align="center">
 <table>
 <tr>
 <td>
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100910.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100910.jpg" height=500/>
 </td>
 <td>    
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100923.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_100923.jpg" height=500/>
 </td>
 <td>    
-    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_101039.jpg" width="200" height="400"/>
+    <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Screenshot_20240817_101039.jpg" height=500/>
 </td>
 </tr>
 </table>
+</div>
 
 - 사용자의 실시간 위치를 지속적으로 파악합니다.
 - 도착지에 도착하면 24시간 내 일정이 있었는지 확인하고 가장 가까운 일정에 도착 시간이 자동으로 기록됩니다.
@@ -288,6 +315,9 @@
 
 ## 🔨 기술 스택
 
+
+<div align="center">
+
 ### Back-end
 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1724212070352?alt=media&token=d73946df-b180-45d5-b0ea-f502acc4f407)](https://github.com/msdio/stackticon)
@@ -296,7 +326,11 @@
 
 <img src="exec/포팅 매뉴얼 a7bb50ead2de4d36b773437db35e8261/Frame 1.png"  width="700" height="270" /><br/>
 
+</div>
+
 ### Version
+
+<div align="center">
 
 | Back-end      | Version            | Front-end      | Version |
 | ------------- | ------------------ | -------------- | ------- |
@@ -311,7 +345,11 @@
 | IntelliJ IDEA | 2024.1.4           | Zustand        | 4.5.4   |
 | Redis         | 7.4.0              | JWT decode     | 4.0.0   |
 
+</div>
+
 # [6] :email: Contact
+
+<div align="center">
 
 ### 📧 나안취햄ㅅ어 공식 이메일: imnotdurnk.ssafy@gmail.com
 
@@ -325,6 +363,8 @@
 | **박다솔** | **Backend**  |     ds10x2@gmail.com     |
 | **육예진** | **Backend**  |   yukyj0418@gmail.com    |
 | **정여진** | **Backend**  |   yeojin9905@naver.com   |
+
+</div>
 
 <!-- url -->
 
